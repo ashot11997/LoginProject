@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/Scenes/LoginScene.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Accaunt.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Expereince.unity
+  isLoaded: 0
+  isActive: 0
